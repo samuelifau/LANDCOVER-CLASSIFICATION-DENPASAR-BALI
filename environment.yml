@@ -1,0 +1,19 @@
+name: geo-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rasterio
+  - geopandas
+  - gdal
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - shapely
+  - fiona
+  - rtree
+  - pip
+  - pip:
+      - xarray
+      - seaborn
