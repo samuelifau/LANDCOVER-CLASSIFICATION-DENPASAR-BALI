@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"class":1},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.793],[115.163, -8.793],[115.163, -8.787],[115.157, -8.787],[115.157, -8.793]]]}},
+    {"type":"Feature","properties":{"class":1},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.793],[115.203, -8.793],[115.203, -8.787],[115.197, -8.787],[115.197, -8.793]]]}},
+    {"type":"Feature","properties":{"class":1},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.793],[115.243, -8.793],[115.243, -8.787],[115.237, -8.787],[115.237, -8.793]]]}},
+    {"type":"Feature","properties":{"class":1},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.793],[115.283, -8.793],[115.283, -8.787],[115.277, -8.787],[115.277, -8.793]]]}},
+    {"type":"Feature","properties":{"class":1},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.793],[115.323, -8.793],[115.323, -8.787],[115.317, -8.787],[115.317, -8.793]]]}},
+
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.763],[115.163, -8.763],[115.163, -8.757],[115.157, -8.757],[115.157, -8.763]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.763],[115.203, -8.763],[115.203, -8.757],[115.197, -8.757],[115.197, -8.763]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.763],[115.243, -8.763],[115.243, -8.757],[115.237, -8.757],[115.237, -8.763]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.763],[115.283, -8.763],[115.283, -8.757],[115.277, -8.757],[115.277, -8.763]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.763],[115.323, -8.763],[115.323, -8.757],[115.317, -8.757],[115.317, -8.763]]]}},
+
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.733],[115.163, -8.733],[115.163, -8.727],[115.157, -8.727],[115.157, -8.733]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.733],[115.203, -8.733],[115.203, -8.727],[115.197, -8.727],[115.197, -8.733]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.733],[115.243, -8.733],[115.243, -8.727],[115.237, -8.727],[115.237, -8.733]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.733],[115.283, -8.733],[115.283, -8.727],[115.277, -8.727],[115.277, -8.733]]]}},
+    {"type":"Feature","properties":{"class":2},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.733],[115.323, -8.733],[115.323, -8.727],[115.317, -8.727],[115.317, -8.733]]]}},
+
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.703],[115.163, -8.703],[115.163, -8.697],[115.157, -8.697],[115.157, -8.703]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.703],[115.203, -8.703],[115.203, -8.697],[115.197, -8.697],[115.197, -8.703]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.703],[115.243, -8.703],[115.243, -8.697],[115.237, -8.697],[115.237, -8.703]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.703],[115.283, -8.703],[115.283, -8.697],[115.277, -8.697],[115.277, -8.703]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.703],[115.323, -8.703],[115.323, -8.697],[115.317, -8.697],[115.317, -8.703]]]}},
+
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.673],[115.163, -8.673],[115.163, -8.667],[115.157, -8.667],[115.157, -8.673]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.673],[115.203, -8.673],[115.203, -8.667],[115.197, -8.667],[115.197, -8.673]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.673],[115.243, -8.673],[115.243, -8.667],[115.237, -8.667],[115.237, -8.673]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.673],[115.283, -8.673],[115.283, -8.667],[115.277, -8.667],[115.277, -8.673]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.673],[115.323, -8.673],[115.323, -8.667],[115.317, -8.667],[115.317, -8.673]]]}},
+
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.643],[115.163, -8.643],[115.163, -8.637],[115.157, -8.637],[115.157, -8.643]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.643],[115.203, -8.643],[115.203, -8.637],[115.197, -8.637],[115.197, -8.643]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.643],[115.243, -8.643],[115.243, -8.637],[115.237, -8.637],[115.237, -8.643]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.643],[115.283, -8.643],[115.283, -8.637],[115.277, -8.637],[115.277, -8.643]]]}},
+    {"type":"Feature","properties":{"class":3},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.643],[115.323, -8.643],[115.323, -8.637],[115.317, -8.637],[115.317, -8.643]]]}},
+
+    {"type":"Feature","properties":{"class":4},"geometry":{"type":"Polygon","coordinates":[[[115.157, -8.613],[115.163, -8.613],[115.163, -8.607],[115.157, -8.607],[115.157, -8.613]]]}},
+    {"type":"Feature","properties":{"class":4},"geometry":{"type":"Polygon","coordinates":[[[115.197, -8.613],[115.203, -8.613],[115.203, -8.607],[115.197, -8.607],[115.197, -8.613]]]}},
+    {"type":"Feature","properties":{"class":4},"geometry":{"type":"Polygon","coordinates":[[[115.237, -8.613],[115.243, -8.613],[115.243, -8.607],[115.237, -8.607],[115.237, -8.613]]]}},
+    {"type":"Feature","properties":{"class":4},"geometry":{"type":"Polygon","coordinates":[[[115.277, -8.613],[115.283, -8.613],[115.283, -8.607],[115.277, -8.607],[115.277, -8.613]]]}},
+    {"type":"Feature","properties":{"class":4},"geometry":{"type":"Polygon","coordinates":[[[115.317, -8.613],[115.323, -8.613],[115.323, -8.607],[115.317, -8.607],[115.317, -8.613]]]}}
+  ]
+}
+# Auto-generate training polygons from Sentinel-2 (SCL/NDVI/NDBI) + optional OSM rivers
+import os, json
+import numpy as np
+import rasterio
+from rasterio.features import shapes
+from rasterio import Affine
+import geopandas as gpd
+from shapely.geometry import shape
+from shapely.ops import unary_union
+from skimage.morphology import remove_small_objects, closing, disk
+import matplotlib.pyplot as plt
+
+# Set paths (EDIT jika perlu)
+PROJECT = r"C:\Users\User\turing-geospatial-analyst-portfolio\python_geospatial\project03_landcover_classification"
+SENTINEL = os.path.join(PROJECT, "data", "raw", "sentinel2_denpasar_multiband.tif")
+OSM_RIVERS = os.path.join(PROJECT, "data", "raw", "Denpasar_rivers.shp")   # optional
+OUT_GEOJSON = os.path.join(PROJECT, "data", "training", "training_polygons_auto.geojson")
+PREVIEW_PNG = os.path.join(PROJECT, "outputs", "maps", "training_polygons_preview.png")
+
+# Parameters (tweak if needed)
+MIN_AREA_M2 = 2000        # minimum polygon area to keep (in m^2)
+SMALL_OBJ_PIXELS = 50     # for removing speckles (pixel units)
+MORPH_RADIUS = 3          # disk radius for morphological closing (pixels)
+NDVI_VEG_TH = 0.30        # NDVI threshold for vegetation
+NDBI_URBAN_TH = 0.08      # NDBI threshold for urban (tune)
+NDVI_BARE_TH = 0.12       # NDVI below this often bare
+WATER_NDBI_TH = -0.15     # optionally require low NDBI to identify water
+
+# --- Read sentinel raster and compute bands/indexes
+with rasterio.open(SENTINEL) as src:
+    meta = src.meta.copy()
+    transform = src.transform
+    crs = src.crs
+    h, w = src.height, src.width
+    count = src.count
+    print("Raster CRS:", crs, "bands:", count, "size:", w, "x", h)
+
+    # Assumed band order: B2,B3,B4,B8,B11,B12,(SCL)
+    # Graceful reading: if less bands, raise helpful error
+    if count < 6:
+        raise ValueError("Expected >=6 bands (B2,B3,B4,B8,B11,B12). Found: {}".format(count))
+
+    b2 = src.read(1).astype('float32')
+    b3 = src.read(2).astype('float32')
+    b4 = src.read(3).astype('float32')
+    b8 = src.read(4).astype('float32')
+    b11 = src.read(5).astype('float32')
+    b12 = src.read(6).astype('float32') if count >= 6 else np.zeros((h,w), dtype='float32')
+    scl = src.read(7).astype('int16') if count >= 7 else None
+
+    # If reflectance scaled (common from GEE), detect scale and fix: values often > 1
+    def autoscale(band):
+        mx = np.nanmax(band)
+        if mx > 2:  # likely scaled by 10000
+            return band / 10000.0
+        return band
+
+    b2 = autoscale(b2); b3 = autoscale(b3); b4 = autoscale(b4); b8 = autoscale(b8); b11 = autoscale(b11); b12 = autoscale(b12)
+
+# --- Compute indices
+ndvi = (b8 - b4) / (b8 + b4 + 1e-8)
+ndwi = (b3 - b8) / (b3 + b8 + 1e-8)
+ndbi = (b11 - b8) / (b11 + b8 + 1e-8)
+
+# Mask invalid pixels
+valid = np.isfinite(b2) & np.isfinite(b3) & np.isfinite(b4) & np.isfinite(b8)
+valid &= (b2 != 0) | (b3 != 0) | (b4 != 0)  # rough
+
+# --- Build initial masks from SCL if available
+water_mask = np.zeros((h,w), dtype=bool)
+veg_mask = np.zeros((h,w), dtype=bool)
+bare_mask = np.zeros((h,w), dtype=bool)
+
+if scl is not None:
+    # Sentinel-2 SCL codes (L2A): 0=NoData,1=Sat/def,2=Dark,3=CloudShadow,4=Vegetation,5=Not-vegetated,6=Water,7=Unclassified,8..11 Cloud
+    water_mask |= (scl == 6)
+    veg_mask |= (scl == 4)
+    bare_mask |= (scl == 5)
+    print("SCL found: water pixels:", int(water_mask.sum()), "veg pixels:", int(veg_mask.sum()))
+else:
+    print("No SCL band present; using indices only.")
+
+# --- Index-based masks (complement SCL)
+veg_mask |= (ndvi >= NDVI_VEG_TH) & valid
+bare_mask |= (ndvi < NDVI_BARE_TH) & valid
+urban_mask = (ndbi > NDBI_URBAN_TH) & (ndvi < 0.25) & valid  # built-up bright + low veg
+# water detection from NDWI / NDBI
+water_mask |= ((ndwi > 0.1) & (ndbi < WATER_NDBI_TH) & valid)
+# optionally remove cloud/shadow SCL if present
+if scl is not None:
+    cloud_codes = [3,8,9,10]   # cloud-shadow / cloud probabilities
+    mask_cloud = np.isin(scl, cloud_codes)
+    # remove cloud/shadow areas from all masks
+    veg_mask &= ~mask_cloud
+    urban_mask &= ~mask_cloud
+    bare_mask &= ~mask_cloud
+    water_mask &= ~mask_cloud
+
+# Ensure disjoint classes by priority: water > urban > vegetation > bare
+label = np.zeros((h,w), dtype='uint8')
+label[water_mask] = 1
+label[(label==0) & urban_mask] = 2
+label[(label==0) & veg_mask] = 3
+label[(label==0) & bare_mask] = 4
+
+print("Label pixel counts (1-water,2-urban,3-veg,4-bare):", {i:int((label==i).sum()) for i in [1,2,3,4]})
+
+# Use OSM rivers to expand/force water (optional)
+if os.path.exists(OSM_RIVERS):
+    rivers = gpd.read_file(OSM_RIVERS)
+    if not rivers.crs:
+        rivers.set_crs(crs, inplace=True)
+    # Rasterize rivers geometry to mask (buffer in meters)
+    try:
+        from rasterio.features import rasterize
+        # buffer rivers by ~30 m (approx), but we rasterize at pixel res so use geometry buffer in CRS units
+        rivers_buf = rivers.copy()
+        # only keep lines (if multipolygon, etc)
+        rivers_buf['geometry'] = rivers_buf.geometry.buffer(0)
+        # Rasterize
+        shapes_riv = ((geom, 1) for geom in rivers_buf.geometry)
+        riv_arr = rasterize(shapes_riv, out_shape=(h,w), transform=transform, fill=0, all_touched=True, dtype='uint8')
+        label[riv_arr==1] = 1
+        print("Applied OSM rivers mask to force water.")
+    except Exception as e:
+        print("OSM rasterize failed:", e)
+
+# --- Clean masks: morphological closing and remove small objects
+# Convert label to separate boolean arrays, apply morphology, then recombine
+def clean_bool(arr_bool, morph_radius=MORPH_RADIUS, min_size=SMALL_OBJ_PIXELS):
+    # closing to fill holes
+    arrc = closing(arr_bool, disk(morph_radius))
+    arrc = remove_small_objects(arrc.astype(bool), min_size=min_size)
+    return arrc
+
+lab_clean = np.zeros_like(label)
+lab_clean[label==1] = 1 if np.any(clean_bool(label==1)) else 0
+lab_clean[label==1] = clean_bool(label==1) * 1
+lab_clean[(label==2)] = clean_bool(label==2) * 2
+lab_clean[(label==3)] = clean_bool(label==3) * 3
+lab_clean[(label==4)] = clean_bool(label==4) * 4
+
+# In case cleaning produced zeros, fallback to original label for those pixels
+lab_clean[lab_clean==0] = label[lab_clean==0]
+
+print("After cleaning counts:", {i:int((lab_clean==i).sum()) for i in [1,2,3,4]})
+
+# --- Polygonize (shapes) and filter by area threshold (convert pixel area to m^2)
+pixel_area = abs(transform.a * transform.e)  # transform.a = pixel width, transform.e = -pixel height
+print("Pixel area (approx m^2):", pixel_area)
+
+polys = []
+for geom, val in shapes(lab_clean, mask=lab_clean>0, transform=transform):
+    geom_shape = shape(geom)
+    area_m2 = geom_shape.area  # if CRS is projected (meters) this is meters^2; otherwise area in degrees
+    # If CRS in degrees (EPSG:4326), convert area by approximate scaling using lat (works as rough)
+    if crs and '4326' in str(crs):
+        # approximate area by using local conversion at center latitude
+        lon, lat = geom_shape.representative_point().x, geom_shape.representative_point().y
+        # approximate meters per degree at latitude
+        meters_per_deg = 111320 * np.cos(np.deg2rad(lat))
+        area_m2 = area_m2 * (meters_per_deg**2)
+    # Keep polygons above area threshold
+    if area_m2 >= MIN_AREA_M2:
+        polys.append({"geometry": geom_shape, "class": int(val), "area_m2": float(area_m2)})
+
+print("Polygons before dissolve/filter:", len(polys))
+
+if len(polys) == 0:
+    raise RuntimeError("No polygons survived area filtering; try reducing MIN_AREA_M2 or check masks.")
+
+gdf = gpd.GeoDataFrame(polys, crs=crs)
+# Dissolve by class to join neighboring shapes (optional)
+gdf = gdf.sort_values('class')
+# Optionally buffer 0 to fix geometry issues
+gdf['geometry'] = gdf.geometry.buffer(0)
+
+# Save as GeoJSON
+gdf.to_file(OUT_GEOJSON, driver='GeoJSON')
+print("Saved training polygons ->", OUT_GEOJSON)
+print("Class counts in output:", gdf['class'].value_counts().to_dict())
+
+# --- Quick preview (raster overlay)
+fig, ax = plt.subplots(1,1, figsize=(8,8))
+# show RGB for visual check (B4,B3,B2)
+try:
+    rgb = np.dstack([np.clip(b4,0,1), np.clip(b3,0,1), np.clip(b2,0,1)])
+    ax.imshow(rgb, origin='upper')
+except Exception:
+    ax.imshow(np.dstack([ndvi, ndwi, ndbi]), origin='upper')
+
+# Colors for classes
+color_map = {1:'#2b83ba', 2:'#d7191c', 3:'#1a9850', 4:'#fdae61'}
+for cls, group in gdf.groupby('class'):
+    group.boundary.plot(ax=ax, edgecolor=color_map.get(cls,'k'), linewidth=1, label=f'{cls} ({len(group)})')
+ax.legend()
+ax.set_title("Auto training polygons preview")
+ax.axis('off')
+plt.savefig(PREVIEW_PNG, dpi=200, bbox_inches='tight')
+plt.show()
+print("Preview saved to:", PREVIEW_PNG)
