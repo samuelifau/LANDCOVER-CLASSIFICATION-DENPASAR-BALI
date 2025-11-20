@@ -99,6 +99,32 @@ Training polygons generated using rules:
 
 ---
 
+## 🔎 Limitations & Discussion
+
+Although the Random Forest model provides a strong landcover classification result, there are some important spectral limitations specific to tropical regions like Bali:
+
+### **1️⃣ Urban Underestimation**
+Many rooftops in Denpasar and Badung use red/orange tiles whose reflectance is **very similar to bare soil** in Sentinel-2 bands (especially Red, NIR, SWIR).  
+This causes part of the dense urban area to be misclassified as **Bare Land (orange)**.
+
+**Urban area underestimation occurs due to spectral similarity between red-tile roofs and bare soil in Sentinel-2, especially in tropical regions. This is a known limitation in medium-resolution satellite classification.**
+
+### **2️⃣ Mixed Pixels at 10m Resolution**
+Residential areas in Bali often contain vegetation patches, gardens, and narrow streets.  
+A 10-meter pixel often contains **mixed landcover**, causing:
+
+- Urban ↔ Vegetation mix  
+- Urban ↔ Bare soil mix  
+- Edge pixels blending into nearest dominant class
+
+### **3️⃣ Auto-Labeling Rule Limitations**
+The auto-generated training data uses NDVI/NDWI/NDBI thresholds.  
+Some cases may not strictly follow these rules (e.g., tiled roofs with high reflectance), so a small portion of pixels can be mislabeled during training.
+
+Despite these limitations, the model still captures the **major spatial pattern** of Denpasar’s landcover and is reliable for portfolio use and Turing screening.
+
+---
+
 ## 📁 **Output Files**
 
 ### **Raster** (`data/processed/`)
@@ -143,5 +169,6 @@ Training polygons generated using rules:
 ---
 
 ⭐ *If this project helps, please star the repository!*
+
 
 
